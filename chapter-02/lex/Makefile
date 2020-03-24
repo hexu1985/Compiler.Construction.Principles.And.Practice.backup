@@ -11,7 +11,7 @@ INCLUDE =
 LDFLAGS = -lfl
 LDPATH = 
 
-PROGS = ex2.20
+PROGS = ex2.20 ex2.21 ex2.22 ex2.23
 
 .PHONY: all
 all: $(PROGS)
